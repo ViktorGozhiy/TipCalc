@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tip calculator</string>
+    <string name="tip">Tip(%):</string>
+    <string name="split_bill">Split bill:</string>
+    <string name="total_amount">Total amount:</string>
+    <string name="currency_sign" translatable="false">$</string>
+    <string name="rounding_prices">Rounding prices</string>
+    <string name="tip_per_person">Tip per person:</string>
+    <string name="total_tip_per_person">Total per person:</string>
+    <string name="total_tip">Total tip:</string>
+    <string name="total_to_pay">Total to pay:</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="guest_check">GUEST CHECK</string>
+    <string name="about_message">Created by Viktor Gozhiy. Email: ViktorGozhiy@outlook.com</string>
+</resources>

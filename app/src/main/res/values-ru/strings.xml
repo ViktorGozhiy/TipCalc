@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Калькулятор чаевых</string>
+    <string name="about">О приложении</string>
+    <string name="exit">Выход</string>
+    <string name="rounding_prices">Округлить</string>
+    <string name="split_bill">Разделить на:</string>
+    <string name="tip">Чаевые:</string>
+    <string name="tip_per_person">Чай на человека:</string>
+    <string name="total_amount">Сумма счета:</string>
+    <string name="total_tip">Сумма чевых:</string>
+    <string name="total_tip_per_person">Итог на человека:</string>
+    <string name="total_to_pay">К оплате:</string>
+    <string name="guest_check">СЧЕТ</string>
+    <string name="about_message">Автор - Viktor Gozhiy. Email: ViktorGozhiy@outlook.com</string>
+</resources>
